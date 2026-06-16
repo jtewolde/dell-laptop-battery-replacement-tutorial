@@ -95,5 +95,50 @@ When I orignally got the battery results before the battery replacement, the res
 
 That indicates that there was about a 75% percentage loss in how much a full battery charge holds. This confirms the battery was experiencing normal wear after several years of use, which explains the symptons of frequent charging and fast discharging that I was experiencing.
 
+### Goal
+
+This confirmed the battery degradation before making any purchases on the replacement battery and tools needed and doing the repair process.
+
+---
+
+## Step 2: Power Down and Prepare the Laptop
+
+Before opening the laptop, I performed several safety precautions to prevent damage to the device or its internal components.
+
+### Process
+
+1. Shut down the laptop completely
+2. Disconnect the charger, if plugged in
+3. Disconnect any external peripherals
+4. Hold the power button for approximately 10 seconds to discharge residual power.
+
+### Why This Step Matters
+
+Removing power reduces the risk of accidental shorts while working on internal components.
+
+---
+
+## Step 3: Remove the Bottom Cover
+
+The Dell Inspiron 15 5502 bottom cover is secured using M2 Screws around the perimeter of the laptop. Here is where the **Precision Screwdriver Kit** is used to carefully remove the screws.
+
+![DellBackCover](/images/dellBackCoverInstructions.jpg)
+
+### Process
+
+1. Loosen the two captive **M2x7.5** screws near the display hinge. These screws remain attached to the bottom cover and do not need to be fully removed.
+2. Remove the seven **M2x4** Philip screws securing the bottom cover to the laptop chassis.
+3. Starting at the recess near the display hinge, insert a plastic pry tool between the bottom cover and chassis.
+4. Carefully work around the perimeter of the laptop, releasing the plastic clips that secure the cover.
+5. Once all clips have been released, lift the bottom cover away from the laptop and set it aside.
+
+### Tips
+
+- Use a Philip #0 Screwdriver or screw tip to prevent any stripping when loosing/tighting.
+- Use a plastic pry tool to avoid scratching the chassis.
+- Avoid using excessive force when releasing the clips.
+- Work slowly around the edges to prevent damaging the cover.
+
+
 
 
