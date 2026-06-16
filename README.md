@@ -18,7 +18,7 @@ This guide is intended to serve as both a repair reference and a hardware troubl
 |--------|--------|
 | Device | Dell Inspiron 15 5502 |
 | Repair Type | Internal Battery Replacement |
-| Battery Type | ![https://www.amazon.com/dp/B0C81TT1XK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1](Dell Internal Lithium-Ion H5CKD 53Wh Battery)  |
+| Battery Type | [Dell Internal Lithium-Ion H5CKD 53Wh Battery](https://www.amazon.com/dp/B0C81TT1XK?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |
 | Repair Difficulty | Intermediate |
 | Outcome | Successful Battery Replacement |
 
@@ -42,6 +42,58 @@ Replacing the battery restores portability and improves overall device usability
 
 ## Tools and Materials
 
-The following lists below are tools and materials that I used throughout this entire repair/replacement process for the battery
+The following lists below are tools and materials that I used throughout this entire repair/replacement process for the battery. Some tools were effective while others did not help with troubleshooting and replacing the battery.
 
-### Repair Tools
+### Repair Tools:
+
+- [Precision Screwdriver Kit](https://www.amazon.com/dp/B0D633J3C7?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- Plastic Pry Tools
+- Tweezers
+- Needle-nose pilers
+- [Screw Extractor Kit](https://www.amazon.com/dp/B0BTNT4225?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [Mini Grinding Pen](https://www.amazon.com/dp/B0DBLHGRQL?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+### Safety Materials:
+
+- Painter's Tape
+- Protective Barriers
+- Compressed Air
+- Paper Towels
+
+### Replacement Parts:
+
+- [Compatible H5CKD 53Wh Dell Laptop Battery](https://www.amazon.com/dp/B0C81TT1XK?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [Laptop Computer Screw Kit](https://www.amazon.com/dp/B0B5CY5LY5?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+---
+
+## Step 1: Verify Battery Health
+
+Before ordering a replacement battery, I verified the condition of the existing battery using Windows' built-in battery reporting tool.
+
+- Open **Command Prompt** > and run the following command in the terminal: ```powercfg /batteryreport```
+- Windows generates an HTML report containing battery health information. 
+- Locate the HTML file by searching for "battery report" in the **File Explorer** and open it.
+
+![Search](./images/Search.png)
+
+### What To Check
+
+When opening the battery report, the first things that I checked were under the **Installed Batteries** section, which displays information on the currently installed battery.
+
+The first information that I checked was the **Design Capactiy** and **Full Charge Capacity**.
+- **Design Capacity** represents the original battery capacity when it was new.
+- **Full Charge Capacity** represents the maximum charge that the battery can currently hold.
+
+By comparing these two values, I was able to determine how much the battery had degraded over time
+
+### Battery Report Results
+
+![BatteryReport](/images/BatteryReport.png)
+
+When I orignally got the battery results before the battery replacement, the results showed that the **Full Charge Capacity** was 14,470mWh while the **Design Capacity** was 54,720mWH. 
+
+That indicates that there was about a 75% percentage loss in how much a full battery charge holds. This confirms the battery was experiencing normal wear after several years of use, which explains the symptons of frequent charging and fast discharging that I was experiencing.
+
+
+
