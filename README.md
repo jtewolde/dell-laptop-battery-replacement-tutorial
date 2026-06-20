@@ -132,6 +132,19 @@ The Dell Inspiron 15 5502 bottom cover is secured using M2 Screws around the per
 4. Carefully work around the perimeter of the laptop, releasing the plastic clips that secure the cover.
 5. Once all clips have been released, lift the bottom cover away from the laptop and set it aside.
 
+![LaptopBack](/images/laptopBackOpen.jpg)
+
+### Inspection
+
+After removing the cover, I inspected the internal components and located:
+- Internal Battery
+- Cooling Fan
+- Memory Modules
+- SSD
+- Motherboard
+
+At this point, the battery was accessible for removal.
+
 ### Tips
 
 - Use a Philip #0 Screwdriver or screw tip to prevent any stripping when loosing/tighting.
@@ -139,6 +152,41 @@ The Dell Inspiron 15 5502 bottom cover is secured using M2 Screws around the per
 - Avoid using excessive force when releasing the clips.
 - Work slowly around the edges to prevent damaging the cover.
 
+---
 
+## Step 4: Disconnect the Battery
 
+Before removing the battery, it is important to disconnect it from the motherboard.
 
+### Process
+
+1. Locate the battery connector that is near the top of the battery, which has a white-colored socket. It should also have a label named **"MB"** with a QR Code as well.
+2. Peel off any tape that could be holding down the cable.
+3. Carefully pull/wiggle away the connector from the socket
+    - You can place two fingers on both sides of the connector and wiggle away from the connector until it fully comes out.
+4. Make sure that the connector is fully out of the socket and move it out of the way for safety.
+
+![batteryCableDisconnect](/images/batteryCableDisconnect.jpg)
+
+---
+
+## Step 5: Remove the Battery Mounting Screws
+
+The battery was secured to the chassis using five screws that need to be removed.
+
+### Process
+
+1. Remove the five M2x3 screws that secure the 4-cell battery to the palm rest and the keyboard assembly.
+    - Use a Philip #1 Screwdriver to ensure that the screws don't strip
+2. Apply firm downward pressure while turning counter-clockwise to loosen the screw.
+3. Store the screws seperately from the bottom cover screws to avoid confusion.
+
+![BatteryUnscrew](/images/batteryUnscrew.jpg)
+
+### Result
+
+Most of the screws were removed successfully. 
+
+However, two battery mounting screws became stripped during removal, preventing the battery from being removed normally.
+
+---
