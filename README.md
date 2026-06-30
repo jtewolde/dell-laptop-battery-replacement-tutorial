@@ -190,3 +190,80 @@ Most of the screws were removed successfully.
 However, two battery mounting screws became stripped during removal, preventing the battery from being removed normally.
 
 ---
+
+## Step 6: Troubleshooting Stripped Battery Screws
+
+### Problem
+
+While trying to unscrew all of the M2x3 screws to free the battery, two screws became stripped to a point where I couldn't use a standard Phillip screwdriver that came with the battery. These screws were located on the top left and bottom right on the battery as shown in the image below.
+
+![StrippedScrew1](/images/StrippedBattery1.jpg) 
+![StrippedScrew2](/images/StrippedBattery2.jpg)
+
+Below are the different methods/attempts that I tried to get these stripped screws out and the results that followed.
+
+### Method 1: Precision Screwdriver Kit
+
+The first troubleshooting step was to verify that I was using the correct size Phillips screwdriver. At first, I was using the standard screwdriver that came with the replacement battery. So, I ordered this [Precision Screwdriver Kit](https://www.amazon.com/dp/B0D633J3C7?ref=ppx_yo2ov_dt_b_fed_asin_title) to get more variety of screw tips to use on these screws to fit better.
+
+**Process**:
+1. Tried multiple screwdriver bits to fit properly in the screws.
+2. Applied firm downward pressure while turning counter-clockwise.
+3. Ensured the screwdriver was fully seated in the screw head before applying force.
+
+**Result:** ❌ **Failed**
+
+The screw heads were already too rounded for any of the Phillips bits to grip, causing the screwdriver to continue slipping.
+
+## Method 2: Rubberband Method
+
+Next, I attempted the rubber band method by placing a rubber band between the screwdriver and the stripped screw.
+
+This method can sometimes provide additional grip for slightly damaged screw heads.
+
+**Result:** ❌ **Failed**
+
+The screw heads were too rounded for the rubber band to create enough friction
+
+### Method 3: Super Glue Method
+
+Since the screwdriver could no longer grip the screw, I attempted to temporarily bond the screwdriver tip to the screw using super glue.
+
+**Process:**
+1. Applied a small amount of super glue to the stripped screw head.
+2. Pressed the screwdriver into the screw hardly.
+3. Allowed the adhesive to cure before attempting removal.
+
+![SuperGlueScrew](/images/SuperglueScrew.jpg)
+
+**Result:** ❌ **Failed**
+
+The adhesive bond was not strong enough to withstand the amount of torque required to loosen the screw.
+
+### Method 4: Precision Screw Extractor Kit
+
+Next, I attempted to remove the screws using a precision screw extractor kit designed for electronics. 
+
+A precision screw extractor kit is designed to remove stripped, rounded, or damaged screws that can no longer be removed with a standard screwdriver. The kit is typically used with a drill or rotary tool and consists of two ends:
+
+- **Burnishing (drill) end:** Removes a small amount of material from the damaged screw head to create a better surface for the extractor.
+- **Extractor end:** Uses reverse (left-handed) threads to bite into the screw head as the drill rotates in reverse, allowing the screw to be backed out.
+
+**Process:**
+1. Attached the smallest extractor bit to a drill.
+2. Used the burnishing end to prepare the damaged screw head.
+3. Switched to the extractor end of the bit.
+4. Set the drill to **reverse** and applied light downward pressure while slowly attempting to remove the screw.
+
+**Result:** ❌ **Failed**
+
+The M2x3 battery screws were too small and too severely stripped for the extractor to establish a secure grip. The extractor continued to slip instead of biting into the screw head.
+
+## Method 5
+
+
+
+
+
+
+
